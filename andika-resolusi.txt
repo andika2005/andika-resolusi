@@ -2,3 +2,5 @@ andika resolusi :
 -menjadi frontend
 -menjadi backend
 -menjadi fullstack
+-menjadi software enginer
+-menjadi mobile dev
